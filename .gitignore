@@ -15,5 +15,8 @@ build
 # SQLite3 database files:
 *.db
 
+.pydevproject
+.project
+
 # Coverage reports:
 .coverage
